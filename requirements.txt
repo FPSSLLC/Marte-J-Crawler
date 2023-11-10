@@ -1,0 +1,10 @@
+barcodenumber==0.5.0
+beautifulsoup4==4.12.2
+PyYAML==6.0.1
+Requests==2.31.0
+lxml
+argparse
+python-dotenv
+mypy
+psycopg2-binary
+flask
